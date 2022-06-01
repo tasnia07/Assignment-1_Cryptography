@@ -34,4 +34,4 @@ Step-5 : Set up Jinja2 Template Engine :
 
 (3) Run the Project : 
 
-  While browsing the URL in localhost, **_must always_** use `Ctrl+shift+R` to hard reload the browser at first before selecting the dropdowns and later as well.
+  While browsing the URL in localhost, **_must always_** use `Ctrl+shift+R` to hard reload the browser at first before giving input and later as well.
