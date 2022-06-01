@@ -6,7 +6,9 @@
 
 Programming Language : Python 3.7 or above
 
-(1) Creating Environment :
+(1) Clone the project from repository
+
+(2) Creating Environment :
 
 Step-1 : Install the virtualenv package :
 
@@ -29,8 +31,6 @@ Step-4 : Set up Flask Framework :
 Step-5 : Set up Jinja2 Template Engine : 
 
   `pip install Jinja2`
-
-(2) Create the Project using GitHub repository
 
 (3) Run the Project : 
 
